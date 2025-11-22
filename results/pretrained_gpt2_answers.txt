@@ -1,0 +1,229 @@
+Q: Where do Sherlock Holmes and Dr. Watson live?
+A: In the house of Sir Henry Carey, at
+Expected:221B Baker Street, London.
+------------------------------------------------------------
+Q: Who is Sherlock Holmes' loyal friend and chronicler?
+A: I am not sure.”
+�
+Expected:Dr. John H. Watson.
+------------------------------------------------------------
+Q: Who is considered 'The Woman' by Sherlock Holmes?
+A: The woman is a woman who has been married
+Expected:Irene Adler.
+------------------------------------------------------------
+Q: Which story features the Red-Headed League?
+A: The Red-Headed League.
+�
+Expected:The Adventure of the Red-Headed League.
+------------------------------------------------------------
+Q: What is the primary occupation of Sherlock Holmes?
+A: A detective.
+“What is the
+Expected:Consulting detective.
+------------------------------------------------------------
+Q: Who is Sherlock Holmes' arch-nemesis?
+A: The man who has been the most formidable enemy
+Expected:Professor James Moriarty.
+------------------------------------------------------------
+Q: What musical instrument does Sherlock Holmes play?
+A: A violin.
+“What is the
+Expected:The violin.
+------------------------------------------------------------
+Q: What is the name of Sherlock Holmes' elder brother?
+A: Sherlock Holmes.
+“‘
+Expected:Mycroft Holmes.
+------------------------------------------------------------
+Q: What is the blue gemstone found inside a Christmas goose called?
+A: A small blue gemstone, about the size
+Expected:The Blue Carbuncle.
+------------------------------------------------------------
+Q: What residue does Holmes often analyze to identify smokers?
+A: A very small amount.”
+�
+Expected:Tobacco ash.
+------------------------------------------------------------
+Q: What tactic besides observation does Holmes often use to gather information?
+A: I have no idea.”
+�
+Expected:Disguise.
+------------------------------------------------------------
+Q: What was the profession of Dr. John Watson?
+A: A doctor.
+“‘A
+Expected:Doctor.
+------------------------------------------------------------
+Q: What kind of marks on the ground does Holmes often study to track people?
+A: A. The marks of a man who has
+Expected:Footprints.
+------------------------------------------------------------
+Q: Who is the landlady of 221B Baker Street?
+A: Mrs. Mary Baker St. Clair.
+Expected:Mrs. Hudson.
+------------------------------------------------------------
+Q: What substance did Sherlock Holmes sometimes use to stimulate his mind?
+A: A little bit of opium, a little bit
+Expected:Cocaine.
+------------------------------------------------------------
+Q: Who is the Scotland Yard detective that often consults Holmes?
+A: The Inspector of Constabulary.
+“
+Expected:Inspector Lestrade (Gregson or Bradstreet also acceptable).
+------------------------------------------------------------
+Q: What warning arrives as envelopes containing dried orange seeds?
+A: A small one.
+“What is
+Expected:Five orange pips.
+------------------------------------------------------------
+Q: What is the bog near Baskerville Hall called?
+A: Baskerville Hall.
+“�
+Expected:The Grimpen Mire.
+------------------------------------------------------------
+Q: Which London newspaper does Holmes frequently read?
+A: The Daily Telegraph.
+“‘
+Expected:The Times.
+------------------------------------------------------------
+Q: What kind of drawings form the code that Holmes deciphers on walls and paper?
+A: A drawing of a man with a stick in
+Expected:Dancing stick figures.
+------------------------------------------------------------
+Q: What kind of jewel is set in the damaged coronet handled by a banker?
+A: A small, round, black stone.
+Expected:Beryls.
+------------------------------------------------------------
+Q: What combat sport is Holmes proficient in?
+A: A very simple one. I have been a
+Expected:Boxing.
+------------------------------------------------------------
+Q: What does Sherlock Holmes keep in his Persian slipper?
+A: A small box of cigarettes.
+“
+Expected:Pipe tobacco.
+------------------------------------------------------------
+Q: In which room at 221B do most client interviews happen?
+A: In the office of the Inspector of Constabulary
+Expected:The sitting-room.
+------------------------------------------------------------
+Q: What important document goes missing from the Foreign Office in one case?
+A: The _Daily Telegraph_.
+“
+Expected:A secret naval treaty.
+------------------------------------------------------------
+Q: What hot drink is often served at Baker Street?
+A: iced coffee.
+“‘What is
+Expected:Tea.
+------------------------------------------------------------
+Q: What object ties Irene Adler to a scandal with a European king?
+A: The death of the King of Bohemia.
+Expected:A compromising photograph.
+------------------------------------------------------------
+Q: What weapon does Dr. Watson often carry?
+A: A revolver.
+“What is the
+Expected:A revolver.
+------------------------------------------------------------
+Q: In which country did Dr. Watson serve as an army doctor?
+A: In the United States.
+“�
+Expected:Afghanistan.
+------------------------------------------------------------
+Q: What is the missing racehorse’s name in the Dartmoor case?
+A: “The Hound of the Baskervilles
+Expected:Silver Blaze.
+------------------------------------------------------------
+Q: What London vehicle do Holmes and Watson frequently hire for short trips?
+A: A black cab.
+“‘
+Expected:A hansom cab.
+------------------------------------------------------------
+Q: In which English county do Holmes and Watson investigate a deadly household powder?
+A: In the county of Berkshire.
+“
+Expected:Cornwall.
+------------------------------------------------------------
+Q: Where does Holmes retire?
+A: From the police.
+“What is
+Expected:Sussex Downs.
+------------------------------------------------------------
+Q: What does Watson call Holmes’ method of reasoning?
+A: “The method of reasoning which he employs is
+Expected:“The science of deduction and analysis.”
+------------------------------------------------------------
+Q: What is the name of the street‑boy network Holmes employs?
+A: The name is Sherlock Holmes.
+“
+Expected:The Baker Street Irregulars.
+------------------------------------------------------------
+Q: What London club is Mycroft Holmes most associated with?
+A: The Metropolitan Police.
+“What is
+Expected:The Diogenes Club.
+------------------------------------------------------------
+Q: What is the name of the ancient document recited by Reginald Musgrave?
+A: The Ritual of the Ritual of the Ritual of
+Expected:The Musgrave Ritual.
+------------------------------------------------------------
+Q: What injury does Victor Hatherley suffer during his adventure?
+A: I have no idea.”
+�
+Expected:Loss of a thumb.
+------------------------------------------------------------
+Q: On what moor do the Baskerville events occur?
+A: On the moor of the Isle of W
+Expected:Dartmoor.
+------------------------------------------------------------
+Q: What substance is used to make an animal appear ghostly?
+A: A substance which is used to make a man
+Expected:Phosphorus.
+------------------------------------------------------------
+Q: In which county is Dartmoor located?
+A: Dartmoor.
+“�
+Expected:Devonshire.
+------------------------------------------------------------
+Q: What animal do Holmes and Watson sometimes use to track a scent?
+A: A dog.
+“‘A
+Expected:A dog.
+------------------------------------------------------------
+Q: What scientific field is Holmes notably skilled in?
+A: The study of the chemical composition of matter.
+Expected:Chemistry.
+------------------------------------------------------------
+Q: Which police force does Holmes frequently assist?
+A: The Metropolitan Police.
+“‘
+Expected:Scotland Yard.
+------------------------------------------------------------
+Q: What railway timetable does Holmes often consult?
+A: The London Underground.
+“‘
+Expected:Bradshaw's.
+------------------------------------------------------------
+Q: What supernatural creature is suspected in a case involving a South American family?
+A: A man who has been in the habit of
+Expected:A vampire.
+------------------------------------------------------------
+Q: What quick message service does Holmes often use?
+A: The London Underground.
+“‘
+Expected:Telegrams.
+------------------------------------------------------------
+Q: What handheld tool does Holmes use to inspect tiny clues?
+A: A small, thin, black-and-
+Expected:A magnifying glass.
+------------------------------------------------------------
+Q: In which city do most of Holmes's cases take place?
+A: London.
+“‘‘
+Expected:London.
+------------------------------------------------------------
+Q: After retirement, what hobby does Holmes pursue?
+A: I have no particular interest in the history of
+Expected:Beekeeping.
+------------------------------------------------------------
